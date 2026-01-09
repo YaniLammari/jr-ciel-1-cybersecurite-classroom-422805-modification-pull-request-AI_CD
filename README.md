@@ -123,4 +123,10 @@ En local, récupérez les changements : git pull origin main.
 
 [ ] Le fichier docker-compose.yml est présent sur ma branche main.
 
-[ ] Ma Pull Request vers le dépôt "Upstream" ne contient que les changements du README.
+[ ] Ma Pull Request vers le dépôt "Upstream" ne contient que les changements du README....
+
+
+<section>
+<p>Pour arrêter les conteneurs et nettoyer les réseaux Docker, il faut utiliser la commande <strong>docker-compose down.</strong>
+</p>
+</section>
