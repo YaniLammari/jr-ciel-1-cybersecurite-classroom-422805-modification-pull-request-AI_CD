@@ -123,4 +123,4 @@ En local, récupérez les changements : git pull origin main.
 
 [ ] Le fichier docker-compose.yml est présent sur ma branche main.
 
-[ ] Ma Pull Request vers le dépôt "Upstream" ne contient que les changements du README.
+[ ] Ma Pull Request vers le dépôt "Upstream" ne contient que les changements du README....
